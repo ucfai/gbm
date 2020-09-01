@@ -39,7 +39,8 @@
     abstract: >-
       Ever watch a TV show or movie that depicts robots taking over the world? In this meeting, we'll discuss how different forms of media perceive AI, from movies to news outlets to global tech experts. We'll also be clearing up misconceptions about the future of artificial intelligence (hint - robots are NOT taking over the world).
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
+    urls:
+      slides: https://docs.google.com/presentation/d/1cAcy11oICV-vuMLJKSBfuu3u-fVDp4yAIuYYVQGozOs/edit?usp=sharing
 - !Meeting
   required:
     id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
