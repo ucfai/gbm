@@ -9,4 +9,4 @@ coordinators: ["PaulLunis", "danielzgsilva", "DillonNotDylan", "irene-l-tanner",
 guests: []
 push_kaggle: false
 needs_notebooks: false
-pull_papers: true
+pull_papers: false
