@@ -30,14 +30,14 @@
   required:
     id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
     date: !Timestamp 2020-09-22 18:00:00
-    title: meeting02
-    authors: []
+    title: Looking at the Media's Perception of AI
+    authors: ["irene-l-tanner"]
     filename: meeting02
-    cover-image: ''
-    tags: []
+    cover-image: 'https://rhsfinancial.com/wp-content/uploads/2018/09/robotjob.jpg'
+    tags: ["misconceptions", "media", "artificial intelligence", "pop culture"]
     room: Online
     abstract: >-
-      We're filling this out!
+      Ever watch a TV show or movie that depicts robots taking over the world? In this meeting, we'll discuss how different forms of media perceive AI, from movies to news outlets to global tech experts. We'll also be clearing up misconceptions about the future of artificial intelligence (hint - robots are NOT taking over the world).
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
 - !Meeting
