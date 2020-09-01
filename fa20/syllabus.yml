@@ -32,7 +32,7 @@
     date: !Timestamp 2020-09-22 18:00:00
     title: Looking at the Media's Perception of AI
     authors: ["irene-l-tanner"]
-    filename: meeting02
+    filename: perception-of-ai
     cover-image: 'https://rhsfinancial.com/wp-content/uploads/2018/09/robotjob.jpg'
     tags: ["misconceptions", "media", "artificial intelligence", "pop culture"]
     room: Online
