@@ -10,11 +10,8 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: f4e062e38f3af1c13d1bdd69d4316f7f887c276cccd3b6e262382c49dd4b9263
@@ -27,11 +24,8 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
@@ -44,11 +38,8 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
@@ -61,11 +52,8 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: 02bd0d1ba8b748d9358b7d92e4026786f78890833071c2067ae912aa2a3d00fe
@@ -78,11 +66,8 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: 1367f61cfe397e862d1c2465bdf4cbea5298c37c980328a36c43556e356119b7
@@ -95,11 +80,8 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
@@ -112,8 +94,19 @@
     room: Online
     abstract: >-
       We're filling this out!
-    needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
-    kaggle: {}
-    papers: {}
+- !Meeting
+  required:
+    id: b914b7d0fd34cbfcf7807e5aaa89c8275cb76b66d879e223d684f26635a44f7e
+    date: !Timestamp 2020-12-01 18:00:00
+    title: meeting07
+    authors: []
+    filename: meeting07
+    cover-image: ''
+    tags: []
+    room: ''
+    abstract: >-
+      We're filling this out!
+  optional:  # All `optional` keys are enumerated in the Documentation
+    urls: {}
