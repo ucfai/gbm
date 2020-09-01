@@ -73,19 +73,16 @@
   required:
     id: 1367f61cfe397e862d1c2465bdf4cbea5298c37c980328a36c43556e356119b7
     date: !Timestamp 2020-11-03 18:00:00
-    title: A World Controlled by AI
-    authors: [sirroboto]
-    filename: world-controlled-by-ai
-    cover-image: 'https://media.discordapp.net/attachments/338719264402046986/750461928266137651/latest.png'
-    tags: ["media", "artificial intelligence", "pop culture", "thought experiment"]
+    title: meeting05
+    authors: []
+    filename: meeting05
+    cover-image: ''
+    tags: []
     room: Online
     abstract: >-
-      What if "Big Brother" wasn't a person but a vastly intelligent and powerful AI that handled the larger decisions in life? With the freedom to live your life how you please, would you be willing to sacrifice your role in larger societal decisions? 
+      We're filling this out!
   optional:  # All `optional` keys are enumerated in the Documentation
-    papers: 
-      SocietyControlledByAI: https://drive.google.com/file/d/1yZE0zXYDK27UBr_TzZePxiLbmqkPnrF_/view?usp=sharing
-    urls:
-      slides: https://docs.google.com/presentation/d/1KFgNHyWKahIDJ9SeIqqJbeFNphCnOzfHmQM5psQHJPI/edit?usp=sharing
+    urls: {}
 - !Meeting
   required:
     id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
