@@ -1,11 +1,11 @@
 !Group
 name: gbms
-room: ''
+room: 'Online'
 semester: fa20
 startdate: !Timestamp 2020-08-31 00:00:00
 frequency: 2
-directors: []
-coordinators: []
+directors: ["brandons209"]
+coordinators: ["PaulLunis", "danielzgsilva", "DillonNotDylan", "irene-l-tanner", "h3rmi0n3", "SirRoboto"]
 guests: []
 push_kaggle: true
 needs_notebooks: false
