@@ -16,16 +16,19 @@
   required:
     id: f4e062e38f3af1c13d1bdd69d4316f7f887c276cccd3b6e262382c49dd4b9263
     date: !Timestamp 2020-09-08 18:00:00
-    title: meeting01
-    authors: []
-    filename: meeting01
-    cover-image: ''
-    tags: []
+    title: AI Ethics
+    authors: ["brandons209"]
+    filename: ai-ethics
+    cover-image: 'https://www.kuppingercole.com/pics/2018_ai_banner_1000x563px.png'
+    tags: ["ethics", "ai ethics", "future of ai", "agi"]
     room: Online
     abstract: >-
-      We're filling this out!
+      Welcome to our first GBM meeting! This meeting will be heavily discussion-based, talking about a variety of interesting AI ethical issues like use in medical fields,
+      politics, laws limiting AI, consciousness, and creating "human" AI. This is a great way to dip your toes into a field of AI many people often joke about or just say "AI
+      will take over the world." Can our society properly regulate and use AI in the future? Come and discuss the answers to this question!
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
+    urls:
+      slides: https://docs.google.com/presentation/d/1hoIjjVXT190kAqDhVstlN8vFnPrUChP1UgiJQtJQiVo/edit?usp=sharing
 - !Meeting
   required:
     id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
