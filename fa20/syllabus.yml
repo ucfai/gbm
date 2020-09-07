@@ -5,13 +5,14 @@
     title: Interest Meeting
     authors: [sirroboto]
     filename: interest-meeting
-    cover-image: ''
-    tags: []
+    cover-image: 'https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2018/04/shutterstock_1011096853.jpg'
+    tags: ["club"]
     room: Online
     abstract: >-
-      We're filling this out!
+      Welcome to AI@UCF! We'll be introducing newcomers and returning members alike to the club this Fall, sharing what we'll be up to. We'll be reviewing club structure, how we'll be running our meetings and more!
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
+    urls:
+      slides: https://docs.google.com/presentation/d/12wAEdGGhDOwcrkp0Mt4G1pdflhslG58_1Go5H2hfq64/edit?usp=sharing
 - !Meeting
   required:
     id: f4e062e38f3af1c13d1bdd69d4316f7f887c276cccd3b6e262382c49dd4b9263
