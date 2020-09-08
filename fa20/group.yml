@@ -1,12 +1,17 @@
 !Group
-name: gbms
-room: 'Online'
-semester: fa20
-startdate: !Timestamp 2020-09-08 18:00:00
-frequency: 2
-directors: ["brandons209"]
-coordinators: ["PaulLunis", "danielzgsilva", "DillonNotDylan", "irene-l-tanner", "h3rmi0n3", "SirRoboto"]
-guests: []
-push_kaggle: false
-needs_notebooks: false
-pull_papers: false
+required:
+  name: gbms
+  room: 'Online'
+  semester: fa20
+  startdate: !Timestamp 2020-09-08 18:00:00
+  frequency: 2
+  directors: ["brandons209"]
+  coordinators: ["PaulLunis", "danielzgsilva", "DillonNotDylan", "irene-l-tanner", "h3rmi0n3", "SirRoboto"]
+  guests: []
+  advisors: []
+  summary: >
+
+optional:
+  use-kaggle: false
+  use-notebooks: false
+  use-papers: false

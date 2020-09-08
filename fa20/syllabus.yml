@@ -12,7 +12,7 @@
       Welcome to AI@UCF! We'll be introducing newcomers and returning members alike to the club this Fall, sharing what we'll be up to. We'll be reviewing club structure, how we'll be running our meetings and more!
   optional:  # All `optional` keys are enumerated in the Documentation
     urls:
-      slides: https://docs.google.com/presentation/d/12wAEdGGhDOwcrkp0Mt4G1pdflhslG58_1Go5H2hfq64/edit?usp=sharing
+      slides: 12wAEdGGhDOwcrkp0Mt4G1pdflhslG58_1Go5H2hfq64
 - !Meeting
   required:
     id: f4e062e38f3af1c13d1bdd69d4316f7f887c276cccd3b6e262382c49dd4b9263
@@ -29,7 +29,7 @@
       will take over the world." Can our society properly regulate and use AI in the future? Come and discuss the answers to this question!
   optional:  # All `optional` keys are enumerated in the Documentation
     urls:
-      slides: https://docs.google.com/presentation/d/1hoIjjVXT190kAqDhVstlN8vFnPrUChP1UgiJQtJQiVo/edit?usp=sharing
+      slides: 1hoIjjVXT190kAqDhVstlN8vFnPrUChP1UgiJQtJQiVo
 - !Meeting
   required:
     id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
@@ -44,7 +44,7 @@
       Ever watch a TV show or movie that depicts robots taking over the world? In this meeting, we'll discuss how different forms of media perceive AI, from movies to news outlets to global tech experts. We'll also be clearing up misconceptions about the future of artificial intelligence (hint - robots are NOT taking over the world).
   optional:  # All `optional` keys are enumerated in the Documentation
     urls:
-      slides: https://docs.google.com/presentation/d/1cAcy11oICV-vuMLJKSBfuu3u-fVDp4yAIuYYVQGozOs/edit?usp=sharing
+      slides: 1cAcy11oICV-vuMLJKSBfuu3u-fVDp4yAIuYYVQGozOs
 - !Meeting
   required:
     id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
@@ -74,7 +74,7 @@
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
 - !Meeting
- required:
+  required:
     id: 1367f61cfe397e862d1c2465bdf4cbea5298c37c980328a36c43556e356119b7
     date: !Timestamp 2020-11-03 18:00:00
     title: A World Controlled by AI
@@ -89,7 +89,7 @@
     papers: 
       SocietyControlledByAI: https://drive.google.com/file/d/1yZE0zXYDK27UBr_TzZePxiLbmqkPnrF_/view?usp=sharing
     urls:
-      slides: https://docs.google.com/presentation/d/1KFgNHyWKahIDJ9SeIqqJbeFNphCnOzfHmQM5psQHJPI/edit?usp=sharing
+      slides: 1KFgNHyWKahIDJ9SeIqqJbeFNphCnOzfHmQM5psQHJPI
 - !Meeting
   required:
     id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
