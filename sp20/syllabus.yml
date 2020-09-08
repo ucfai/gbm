@@ -1,221 +1,58 @@
 - !Meeting
   required:
     id: 8f863b4f2ad5d2600cb549cf885be1065f9423efbd7526a3f3e73457fab26bb7
-    date: !Timestamp 2020-01-13 00:00:00
-    title: meeting00
-    authors: []
-    filename: meeting00
+    date: !Timestamp 2020-01-13 18:00:00
+    title: Welcome to AI@UCF!
+    authors: [sirroboto, ]
+    filename: welcome
     cover-image: ''
     tags: []
-    room: ''
+    room: 'ENG2 302'
     abstract: >-
-      We're filling this out!
-    needs-notebooks: false
+      We invite all of our members and those of you with topics they're passionate about to be a part of our Project Teams this semester! We will be hosting a fun, informal meeting where everyone is free to write down their interests and ideas, converse with other students, and form teams based on the topics pitched. Note: Not everyone's idea may make it through, but we encourage you to pitch ideas and by the end of the night each of you will be paired in a group based on those interests. Ideas will be narrowed down by coordinators who are facilitating this meeting, and the teams will be formed with a team leader who will manage and support the project throughout the semester. Some project teams will be continuing from last semester! Feel free to reach out and join one of our ongoing projects as well.
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
+    urls:
+      slides: 1F-uqiLmOKmJ3EF00WRR5s5ozTJ3FVD9x-7pvYOazHqI
 - !Meeting
   required:
     id: f4e062e38f3af1c13d1bdd69d4316f7f887c276cccd3b6e262382c49dd4b9263
-    date: !Timestamp 2020-01-27 00:00:00
-    title: meeting01
-    authors: []
-    filename: meeting01
+    date: !Timestamp 2020-01-27 18:00:00
+    title: Intro to Project Teams
+    authors: [ahkerrigan, calvinyong, hevia, ]
+    filename: intro-to-project-teams
     cover-image: ''
-    tags: []
-    room: ''
+    tags: [projects, ]
+    room: 'ENG2 302'
     abstract: >-
-      We're filling this out!
-    needs-notebooks: false
+      We invite all of our members and those of you with topics they're passionate about to be a part of our Project Teams this semester! We will be hosting a fun, informal meeting where everyone is free to write down their interests and ideas, converse with other students, and form teams based on the topics pitched. Note: Not everyone's idea may make it through, but we encourage you to pitch ideas and by the end of the night each of you will be paired in a group based on those interests. Ideas will be narrowed down by coordinators who are facilitating this meeting, and the teams will be formed with a team leader who will manage and support the project throughout the semester. Some project teams will be continuing from last semester! Feel free to reach out and join one of our ongoing projects as well.
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
 - !Meeting
   required:
     id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
-    date: !Timestamp 2020-02-03 00:00:00
-    title: meeting02
-    authors: []
-    filename: meeting02
+    date: !Timestamp 2020-02-10 18:00:00
+    title: Deconstucting Buzzwords
+    authors: [brandons209, hevia, irene-l-tanner, ahl98, danielzgsilva, ]
+    filename: deconstructing-buzzwords
     cover-image: ''
-    tags: []
-    room: ''
+    tags: [buzzwords, artificial intelligence, machine learning, deep learning,]
+    room: 'ENG2 302'
     abstract: >-
-      We're filling this out!
-    needs-notebooks: false
+      Tonight we'll be encouraging you not to drink the KoolAid and work to demystify common terms surrounding Artificial Intelligence. Afterwards we'll have a Q/A (AMA) session where members can ask anything they want about the club and its leadership. During our Q/A you'll have the opportunity to vote up questions you want answered the most.
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
+    urls:
+      slides: 1uxt68Z477kCbf75OrqgeDc6-2_JuLEvx3ODsCgBr10Q
 - !Meeting
   required:
     id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
-    date: !Timestamp 2020-02-10 00:00:00
-    title: meeting03
-    authors: []
-    filename: meeting03
+    date: !Timestamp 2020-02-24 18:00:00
+    title: Ethics in AI
+    authors: [sirroboto, h3rmi0n3, paullunis, brandons209, ]
+    filename: ai-ethics
     cover-image: ''
-    tags: []
+    tags: [ai ethics, ethics, ]
     room: ''
     abstract: >-
-      We're filling this out!
-    needs-notebooks: false
+      This week we'll be discussing various ethical topics surrounding Artificial Intelligence. We'll be exploring popular and unpopular viewpoints, known and unknown champions of these views, and fear versus trust-based perspectives. This is the perfect opportunity for you all to come and voice your opinions or concerns about Ethics in Artificial Intelligence.
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: 02bd0d1ba8b748d9358b7d92e4026786f78890833071c2067ae912aa2a3d00fe
-    date: !Timestamp 2020-02-17 00:00:00
-    title: meeting04
-    authors: []
-    filename: meeting04
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: 1367f61cfe397e862d1c2465bdf4cbea5298c37c980328a36c43556e356119b7
-    date: !Timestamp 2020-02-24 00:00:00
-    title: meeting05
-    authors: []
-    filename: meeting05
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
-    date: !Timestamp 2020-03-02 00:00:00
-    title: meeting06
-    authors: []
-    filename: meeting06
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: b914b7d0fd34cbfcf7807e5aaa89c8275cb76b66d879e223d684f26635a44f7e
-    date: !Timestamp 2020-03-16 00:00:00
-    title: meeting07
-    authors: []
-    filename: meeting07
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: cebdadd4fdcde94eb6eea2edcbe663d4df6d06f8ef91ca2c1bd3afb1ff4318cb
-    date: !Timestamp 2020-03-23 00:00:00
-    title: meeting08
-    authors: []
-    filename: meeting08
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: 43c316921632d149a2e626c58f8ad5e4fd4aec01bef6970954cddd72f0235c3e
-    date: !Timestamp 2020-03-30 00:00:00
-    title: meeting09
-    authors: []
-    filename: meeting09
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: be2082a49b5867880566a74492f4bcf4a20e621b3752451b44ec788f328b6210
-    date: !Timestamp 2020-04-06 00:00:00
-    title: meeting10
-    authors: []
-    filename: meeting10
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: 5dab7d867ea5cbb561f27a2631b44ea16014565bd4c10cfd95df8cd9f99668ba
-    date: !Timestamp 2020-04-13 00:00:00
-    title: meeting11
-    authors: []
-    filename: meeting11
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
-- !Meeting
-  required:
-    id: cfa79e64c53785c99ccdc0b73eb4e48ba2418f19d4bcece24d4901808593853d
-    date: !Timestamp 2020-04-20 00:00:00
-    title: meeting12
-    authors: []
-    filename: meeting12
-    cover-image: ''
-    tags: []
-    room: ''
-    abstract: >-
-      We're filling this out!
-    needs-notebooks: false
-  optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
-    kaggle: {}
-    papers: {}
+    urls:
+      slides: 18KKoKIVKzxNzCwLzy2Jl9aCKhKej4U88biPTMV2gAnM
