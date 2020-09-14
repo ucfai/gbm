@@ -94,14 +94,16 @@
   required:
     id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
     date: !Timestamp 2020-11-17 18:00:00
-    title: meeting06
-    authors: []
-    filename: meeting06
-    cover-image: ''
-    tags: []
+    title: A Brief History of AI
+    authors: [danielzgsilva]
+    filename: history
+    cover-image: 'https://drive.google.com/uc?export=view&id=1uK5I0rm8sgdGnTgHC_Wt6_EmEaGbmHEz'
+    tags: ["artificial intelligence", "history", "timeline]
     room: Online
     abstract: >-
-      We're filling this out!
+      Whether it be self-driving cars, facial recognition, or virtual assistants, artificial intelligence seems to be making its way into nearly every aspect of our modern society. 
+      With this migration of AI from science fiction into the real world, one might wonder how we got here, or where was the "hype" 10-20 years ago?
+      In this meeting, UCF@AI will be delving into the history of AI, uncovering the major figures and milestones that led to today's current state of artificial intelligence.
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
 - !Meeting
