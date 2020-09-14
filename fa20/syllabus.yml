@@ -101,9 +101,9 @@
     tags: ["artificial intelligence", "history", "timeline]
     room: Online
     abstract: >-
-      Whether it be self-driving cars, facial recognition, or virtual assistants, artificial intelligence seems to be making its way into nearly every aspect of our modern society. 
-      With this migration of AI from science fiction into the real world, one might wonder how we got here, or where was the "hype" 10-20 years ago?
-      In this meeting, UCF@AI will be delving into the history of AI, uncovering the major figures and milestones that led to today's current state of artificial intelligence.
+      Whether it be self-driving cars, facial recognition, or virtual assistants, artificial intelligence seems to be making its way into nearly every aspect of our society. 
+      With AI's migration from just science fiction into the real world, one might wonder how we got here, or where was the "hype" ten to twenty years ago?
+      In this meeting, AI@UCF will delve into the history of AI, uncovering the major figures and milestones that led us to where we are today.
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
 - !Meeting
