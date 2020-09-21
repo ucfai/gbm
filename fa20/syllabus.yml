@@ -49,16 +49,17 @@
   required:
     id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
     date: !Timestamp 2020-10-06 18:00:00
-    title: meeting03
-    authors: []
-    filename: meeting03
-    cover-image: ''
-    tags: []
+    title: Neural Networks VS Brains
+    authors: ["PaulLunis"]
+    filename: neural-networks-vs-brains
+    cover-image: 'https://mse238blog.stanford.edu/wp-content/uploads/2017/07/Screen-Shot-2017-07-28-at-9.19.16-AM.png'
+    tags: ["neural networks", "machine learning", "artificial intelligence","neuroscience"]
     room: Online
     abstract: >-
-      We're filling this out!
+      This week in AI@UCF we're discussing some of the strengths and weaknesses of our brain versus neural networks. We'll cover how machine learning currently compares to our minds and why it's easy to get excited about both!
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
+    urls:
+      slides: 1j_SKjivrJASrA1Iyy9vGh4YOfAoSdtslE8nYKjbe858
 - !Meeting
   required:
     id: 02bd0d1ba8b748d9358b7d92e4026786f78890833071c2067ae912aa2a3d00fe
