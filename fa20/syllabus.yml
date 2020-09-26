@@ -64,16 +64,16 @@
   required:
     id: 02bd0d1ba8b748d9358b7d92e4026786f78890833071c2067ae912aa2a3d00fe
     date: !Timestamp 2020-10-20 18:00:00
-    title: meeting04
-    authors: []
-    filename: meeting04
-    cover-image: ''
-    tags: []
+    title: Neural Networks: Are they here to stay?
+    authors: [Dillon.Burns]
+    filename: Neural Networks: Are they here to stay?
+    cover-image: 'https://i.pinimg.com/564x/b0/81/89/b08189699368cf0b71eed9931ee70881.jpg'
+    tags: ["Neural Networks, AI/Ml, AGI, Evolutionary Networks"]
     room: Online
     abstract: >-
-      We're filling this out!
+      Neural Networks have taken the tech industry by storm with their incredible results, but are they the be all end all technology?
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
+    urls: 1U5odcSYeK8TK5OeWdEO0KJoHQ68_U4UG
 - !Meeting
   required:
     id: 1367f61cfe397e862d1c2465bdf4cbea5298c37c980328a36c43556e356119b7
