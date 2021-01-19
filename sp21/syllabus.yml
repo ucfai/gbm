@@ -1,58 +1,66 @@
 # Check the Docs for details on editing this!
 - id: "7ae1eb74-751f-49a2-9db7-49fdea0e05c8"
-  title: "meeting00"
-  filename: "meeting00"
+  title: "Interest Meeting"
+  filename: "interest-meeting"
   date: "2021-01-25T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
+  authors: ["sirroboto"]
+  cover_image: "https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2018/04/shutterstock_1011096853.jpg"
+  tags: ["club", "ucfai", "ai@ucf"]
   room: ""
   abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
+    Welcome to AI@UCF! We'll be introducing newcomers and returning members alike to the club this Fall, sharing what we'll be up to. We'll be reviewing club structure, how we'll be running our meetings and more!
+  urls:
+    slides: https://docs.google.com/presentation/d/e/2PACX-1vQ00lPPqjtiIK6yDbUBSHZRDXstOC-EBml1EJoVoxC8128P284MiCdHFIzASER2MwVL1h9zxI8jyKgf/pub?start=false&loop=false&delayms=3000
+  kaggle: false
   papers: {}
 # Check the Docs for details on editing this!
 - id: "8441170a-e49e-489a-bb22-f802167d4640"
-  title: "meeting01"
-  filename: "meeting01"
+  title: "AI Ethics"
+  filename: "ai-ethics"
   date: "2021-02-01T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
+  authors: ["sirroboto", "brandons209"]
+  cover_image: "https://www.kuppingercole.com/pics/2018_ai_banner_1000x563px.png"
+  tags: ["ethics", "ai ethics", "future of ai", "agi"]
   room: ""
   abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
+     Welcome to our first GBM meeting! This meeting will be heavily discussion-based, talking about a variety of interesting AI ethical issues like use in medical fields,
+     politics, laws limiting AI, consciousness, and creating "human" AI. This is a great way to dip your toes into a field of AI many people often joke about or just say "AI
+     will take over the world." Can our society properly regulate and use AI in the future? Come and discuss the answers to this question!
+  urls:
+    slides: https://docs.google.com/presentation/d/e/2PACX-1vSSY3LoyY0vH1liATL2ZZI14N4x1uibZ_h-F7syGyQ_cSQBK8jYycNnodwG5JyZIXIdC1GWtt8xp8tZ/pub?start=false&loop=false&delayms=3000
+  kaggle: false
   papers: {}
 # Check the Docs for details on editing this!
 - id: "cc9ec059-83d6-454b-9eed-ac57cde351c5"
-  title: "meeting02"
-  filename: "meeting02"
+  title: "A World Controlled by AI"
+  filename: "world-controlled-by-ai"
   date: "2021-02-08T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
+  authors: ["sirroboto"]
+  cover_image: "https://media.discordapp.net/attachments/338719264402046986/750461928266137651/latest.png"
+  tags: ["media", "artificial intelligence", "pop culture", "thought experiment"]
   room: ""
   abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
+    What if "Big Brother" wasn't a person but a vastly intelligent and powerful AI that handled the larger decisions in life? With the freedom to live your life how you please, would you be willing to sacrifice your role in larger societal decisions?
+  urls:
+    slides: https://docs.google.com/presentation/d/e/2PACX-1vQY2F2q-9GrsJpeG4B4mRPWQ-npmGmTaj1rK_Wbu9P_WDl8Bae9K8WCxzrs-hkf0hQR-ynznvh9wIKX/pub?start=false&loop=false&delayms=3000
+  kaggle: false
   papers: {}
 # Check the Docs for details on editing this!
 - id: "91984b65-735f-4779-81e6-45fc039a7c8c"
-  title: "meeting03"
-  filename: "meeting03"
+  title: "A Brief History of AI"
+  filename: "history"
   date: "2021-02-15T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
+  authors: ["danielzgsilva"]
+  cover_image: "https://drive.google.com/uc?export=view&id=1uK5I0rm8sgdGnTgHC_Wt6_EmEaGbmHEz"
+  tags: ["artificial intelligence", "history", "timeline", "overview"]
   room: ""
   abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
+    Whether it be self-driving cars, facial recognition, or virtual assistants, artificial intelligence seems to be making its way into nearly every aspect of our society. 
+    With AI's migration from just science fiction into the real world, one might wonder how we got here, or where was the "hype" ten to twenty years ago?
+    In this meeting, AI@UCF will delve into the history of AI, uncovering the major figures and milestones that led us to where we are today.
+  urls:
+    slides: https://docs.google.com/presentation/d/e/2PACX-1vT8PyMjHbg08KiUasYk_zQlv-YVOk7bRCwYf3xA_194C4m8a92FGUxxvREn-qzHowC95UFngx3ppwPl/pub?start=false&loop=false&delayms=3000
+  kaggle: false
   papers: {}
 # Check the Docs for details on editing this!
 - id: "30f6d6d3-6a22-4b51-b7c4-442efdca5bca"
