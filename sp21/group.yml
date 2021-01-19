@@ -1,11 +1,14 @@
 # Check the Docs for details on editing this!
 name: "gbms"
-room: ""
+room: "Online"
 semester: "sp21"
-startdate: "2021-01-18T00:00:00"
-directors: []
-coordinators: []
+startdate: "2021-01-19T18:00:00"
+directors: ["brandons209"]
+coordinators: ["PaulLunis", "danielzgsilva", "DillonNotDylan", "h3rmi0n3", "SirRoboto"]
 guests: []
 advisors: []
 abstract: >-
-  We're filling this out!
+  Our general body meetings (GBMs) is for those from all backgrounds and knowledge levels. In this group we explore the field of AI through discussion based
+  meetings about ethics, history, misconceptions, deep learning, and many others from an outside perspective. AI isn't scary, and many people have negative views on it
+  based on how the media portrays it. Our GBMs will help break this down and explore the implications of AI and where it stands today. If you enjoy high level informative
+  discussions with your peers, learning more about AI, and meeting new people, GBMs is for you!
