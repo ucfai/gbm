@@ -45,7 +45,8 @@
   urls:
     slides: https://docs.google.com/presentation/d/e/2PACX-1vQY2F2q-9GrsJpeG4B4mRPWQ-npmGmTaj1rK_Wbu9P_WDl8Bae9K8WCxzrs-hkf0hQR-ynznvh9wIKX/pub?start=false&loop=false&delayms=3000
   kaggle: false
-  papers: {}
+  papers: 
+    story: https://drive.google.com/file/d/1jqIHRD1tnJQloHV1cuhuojrMPOnQaMXv/view?usp=sharing
 # Check the Docs for details on editing this!
 - id: "91984b65-735f-4779-81e6-45fc039a7c8c"
   title: "A Brief History of AI"
