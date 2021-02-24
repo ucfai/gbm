@@ -80,15 +80,16 @@
   papers: {}
 # Check the Docs for details on editing this!
 - id: "6d8e99be-365a-401f-aa8a-0e27a3367a6e"
-  title: "meeting05"
-  filename: "meeting05"
-  date: "2021-03-01T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
+  title: "AI and Your Data"
+  filename: "big-data"
+  date: "2021-03-01T00:00:00
+  authors: ["PaulLunis"]
+  cover_image: "https://sdtimes.com/wp-content/uploads/2018/01/bigdata.jpg"
+  tags: ["artificial intelligence", "big data", "data analytics" "privacy"]
+  room: "Online"
   abstract: >-
-    We're filling this out!
+    "Is your data as private as you think it is? How much is your data really worth?
+     When it comes AI and how it interacts with your information, there are alot of things to know, and we'll discuss some of them this week!"
   urls: {}
   kaggle: {}
   papers: {}
