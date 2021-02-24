@@ -83,7 +83,7 @@
   title: "AI and Your Data"
   filename: "big-data"
   date: "2021-03-01T00:00:00
-  authors: [PaulLunis]
+  authors: ["PaulLunis"]
   cover_image: "https://sdtimes.com/wp-content/uploads/2018/01/bigdata.jpg"
   tags: ["artificial intelligence", "big data", "data analytics" "privacy"]
   room: "Online"
