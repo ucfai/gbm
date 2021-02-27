@@ -66,15 +66,15 @@
   papers: {}
 # Check the Docs for details on editing this!
 - id: "30f6d6d3-6a22-4b51-b7c4-442efdca5bca"
-  title: "meeting04"
-  filename: "meeting04"
+  title: "Applications of AI and Career Paths"
+  filename: "Applications and Career Paths"
   date: "2021-02-22T00:00:00"
-  authors: []
+  authors: ["dillonnotdylan"]
   cover_image: ""
-  tags: []
+  tags: ["Applications", "Careers", "Artificial Intelligence"]
   room: ""
   abstract: >-
-    We're filling this out!
+    In the wonderful world of AI, there are so many oppotunities one has to apply their AI knowledge. Today we'll be covering what AI/ML look like from within the industry and how AI/ML work when paired with other fields. 
   urls: {}
   kaggle: {}
   papers: {}
