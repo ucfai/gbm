@@ -75,7 +75,8 @@
   room: ""
   abstract: >-
     In the wonderful world of AI, there are so many oppotunities one has to apply their AI knowledge. Today we'll be covering what AI/ML look like from within the industry and how AI/ML work when paired with other fields. 
-  urls: {}
+  urls:
+    slides: https://docs.google.com/presentation/d/e/2PACX-1vRGClZsawatFeRcv4pZg1_SPDZbO3fnS0sc-1EoTgjZIDFXyHtMHwHUb4tdLWKrYz_qBRSo_Bu6dKL_/pub?start=false&loop=false&delayms=3000
   kaggle: {}
   papers: {}
 # Check the Docs for details on editing this!
